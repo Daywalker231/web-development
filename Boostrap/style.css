@@ -1,0 +1,29 @@
+    .jumbotron {
+        position: relative;
+        background-image:url("images/bg-2.jpg");    
+        width:100%;
+        height: 100%;
+        background-size: cover;
+        overflow: hidden;
+        opacity: 0.5;
+        color: black;
+        font-style: bold;
+}
+.card-img-top{
+    width: 100%;
+   
+}
+.footer{
+    text-align: center;
+    padding-top: 150px;
+    margin-top: 50px;
+    background-color: aqua;
+    padding-bottom: 150px;
+}
+.img-download{
+    width:100px;
+    height: 40px;
+}
+body{
+    position: relative;
+}
